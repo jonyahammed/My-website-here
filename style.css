@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.website{
+    color: rgb(245, 48, 13);
+}
+h3{
+    color: rgb(11, 95, 221);
+}
+.half-screen{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+    
+}
+.half-screen img{
+      
+      width: 100%;
+}
+.link{
+    text-decoration: none;
+     background-image: linear-gradient(45deg, red, blue);
+    color: white;
+    font-weight: 800;
+    padding: 5px 15px;
+    border-radius: 5px;
+    
+  
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    
+}
+.images{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}    
+#center{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    font-size: 30px;
+}  
+.pictur{
+    width: 29%;
+    margin: 2%;
+    float: left;
+}
+.pictur img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    background-image: linear-gradient(45deg, green, orange);
+    border-radius: 5px;
+    padding: 5px 15px;
+    
+
+}
+#gmail{
+    font-weight: 800;
+    font-size: 20px;
+}
+.center-aligen{
+    text-align: center;
+
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.center-aligen h3{
+    color: rgb(15, 178, 233);
+}
